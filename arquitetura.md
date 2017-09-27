@@ -12,4 +12,3 @@ casas inicialmente vazias.
 'O') na posição definida por **linha** e **coluna**.
 
 
-#3
